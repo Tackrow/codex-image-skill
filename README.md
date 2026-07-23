@@ -8,6 +8,9 @@ ChatGPT の有料サブスクリプション（Plus / Pro / Business / Enterpris
 Claude Code ──Bash──▶ codex-image.sh ──codex exec──▶ gpt-image-2
 ```
 
+> Claude Desktop（チャット・Cowork）で使いたい場合は、MCP サーバー版の
+> [codex-image-mcp](https://github.com/Tackrow/codex-image-mcp) を利用してください。
+
 ## できること
 
 - **テキストからの画像生成** — イラスト、モックアップ、OG 画像、ブログのヒーロー画像など
